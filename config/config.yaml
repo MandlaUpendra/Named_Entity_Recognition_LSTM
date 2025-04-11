@@ -1,0 +1,6 @@
+artifcats_root: artifacts
+
+processing:
+  root_dir: artifacts/processing
+  summary_source_url: https://drive.google.com/file/d/1ULy8UvniOBf77IpplhBdrOd4qOpOROaO/view?usp=sharing
+  raw_source_url: https://drive.google.com/file/d/19GAV4PU-XEK0vt9V0VVRK85Um5gAS6QO/view?usp=sharing
