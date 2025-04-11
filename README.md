@@ -1,0 +1,1 @@
+Business Case Introduction - How inshorts delivers news in less thatn 60 words
